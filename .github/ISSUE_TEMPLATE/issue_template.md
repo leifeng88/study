@@ -1,9 +1,9 @@
 ---
 name: Bug 报告 / 功能请求 / 其他问题
 about: 创建一个 Issue 来报告问题、提出建议或发起讨论
-title: ''
-labels: ''
-assignees: ''
+title: '[Bug]'
+labels: 'bug, triae, needs-investigation'
+assignees: 'alice, bob'
 ---
 
 ## 问题类型（请保留一项）
